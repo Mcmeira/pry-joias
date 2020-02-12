@@ -2,7 +2,7 @@ export const products = [
   {
     name: 'Pulseiras',
     price: 300,
-    description: 'Conheças os lançamentos e os que nunca saem de moda.'
+    description: 'Conheças os lançamentos e os itens que nunca saem de moda.'
   },
   {
     name: 'Brincos',
@@ -12,7 +12,7 @@ export const products = [
   {
     name: 'Anéis',
     price: 100,
-    description: 'Beleza e ousadia.'
+    description: 'Beleza e ousadia na medida.'
   },
   {
     name: 'Colares',
